@@ -1,0 +1,35 @@
+.carousel-style {
+
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 40px;
+    
+ }
+    
+.carousel-inner {
+    
+    border-radius: 20px;
+    position: relative;
+    width: 60%;
+    overflow: hidden;
+    margin: auto;
+ }
+    
+.carousel-indicators {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 0;
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    margin: auto;
+    list-style: none;
+ }
+    
+.breadcrumb {
+    
+    margin-top: 22px;
+    
+ }
