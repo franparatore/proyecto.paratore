@@ -175,6 +175,9 @@ textarea {
   .home .servicios .nosotros .contacto .portfolio {
     background-color: unset;
   }
+  h1 {
+    margin-bottom: 70px;
+  }
   .titulo_1 {
     font-size: 00.5cm;
     text-align: center;
@@ -263,12 +266,15 @@ textarea {
   .home .servicios .nosotros .contacto .portfolio {
     background-color: unset;
   }
-  .text1 {
-    margin: 10px;
+  h1 {
+    margin-bottom: 70px;
   }
   .titulo_1 {
     font-size: 00.5cm;
     text-align: center;
+  }
+  .text1 {
+    margin-top: 10px;
   }
   .carousel-style {
     margin-left: 5%;

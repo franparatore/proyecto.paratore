@@ -45,6 +45,12 @@ $col-backg: #0d6efd;
     background-color: unset;
     
         }    
+
+    h1 {
+
+    margin-bottom: 70px;
+
+    }    
           
     .titulo_1 {
     
@@ -62,6 +68,7 @@ $col-backg: #0d6efd;
             }
     
     .grid-image {
+
     display: grid;
     grid-template-columns: 1fr ;
     grid-template-areas: "img1 "
@@ -156,13 +163,13 @@ $col-backg: #0d6efd;
           
     background-color: unset;
     
-        }    
-    
-    .text1  {
+        }   
+        
+    h1 {
 
-    margin: 10px;
+    margin-bottom: 70px;
 
-    }
+    }    
           
     .titulo_1 {
     
@@ -170,6 +177,12 @@ $col-backg: #0d6efd;
     text-align: center;
     
        }
+
+    .text1 {
+
+    margin-top: 10px;
+
+    }   
 
     .carousel-style {
     
@@ -180,7 +193,7 @@ $col-backg: #0d6efd;
         }
     
     .grid-image {
-        
+
     display: grid;
     grid-template-columns: 1fr ;
     grid-template-areas: "img1 "
